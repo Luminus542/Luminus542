@@ -1,21 +1,13 @@
-## Hi, I'm Andy 👋
+<h3 align="center">👋 Welcome</h3>
 
-Programming enthusiast focused on building **Discord bots** and useful software projects.  
-I enjoy learning by creating, experimenting, and improving over time.
+<p align="center">
+  Programming as a hobby · Working on personal projects
+</p>
 
-🌐 Portfolio: https://luminus542.github.io
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luminus542&layout=compact&theme=tokyonight" />
+</p>
 
----
-
-### 🛠️ Main Focus
-- JavaScript & Node.js
-- Discord.js (bots & automation)
-- HTML & CSS
-- Some experience with Python and C++
-
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luminus542&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luminus542&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luminus542&theme=tokyonight" />
+</p>
