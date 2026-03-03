@@ -1,7 +1,7 @@
 <h3 align="center">👋 Welcome</h3>
 
 <p align="center">
-  Programming as a hobby · Working on personal projects
+ Working on personal projects
 </p>
 
 <p align="center">
